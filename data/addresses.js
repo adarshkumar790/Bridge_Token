@@ -1,0 +1,17 @@
+module.exports = {
+  arbitrumSepolia: {
+    owner: "0x27AAC726F6E5124FC567Fb78F80a44BFa33D8e2C",
+    deployer: "0x27AAC726F6E5124FC567Fb78F80a44BFa33D8e2C",
+    fxdx: "0xc9796309D1cEe415fe41d0da82b34457b77333E2",
+  },
+  optimismSepolia: {
+    owner: "0x8DCF5dD4aC063006D52c8b62Db1b812fFb819909",
+    deployer: "0x8DCF5dD4aC063006D52c8b62Db1b812fFb819909",
+    fxdx: "0x54CeAb8748eBe2B1Df11B5402aF8b8Ba90c170dd",
+  },
+  mumbai: {
+    owner: "0x27AAC726F6E5124FC567Fb78F80a44BFa33D8e2C",
+    deployer: "0x27AAC726F6E5124FC567Fb78F80a44BFa33D8e2C",
+    fxdx: "0xc9796309D1cEe415fe41d0da82b34457b77333E2",
+  },
+};
